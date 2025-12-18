@@ -1,0 +1,5 @@
+git init
+echo "Hello, World!" > hello_world.txt
+git add hello_world.txt
+git commit -m "hello_world.txtを追加"
+git commit -m "日本語訳を追記"
